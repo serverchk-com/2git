@@ -1,1 +1,2 @@
 it.serverchk.com
+add read
